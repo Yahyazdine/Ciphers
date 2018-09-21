@@ -1,3 +1,5 @@
+#This code is entitled to Harsh Gandhi.
+
 import array
 pt = raw_input("Enter Plaintext: ")
 size = 3 #Block size for CBC mode
